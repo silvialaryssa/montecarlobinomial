@@ -1,0 +1,10 @@
+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
+
+
+https://huggingface.co/blog/password-git-deprecation
+
+editar pra aceitar ssh
+where <repo_path> is in the form of:
+spaces/<user_name>/<repo_name> for Spaces
+
+git remote set-url origin https://silviabranco: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@huggingface.co/spaces/silviabranco/unbaedi
