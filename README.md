@@ -7,4 +7,4 @@ streamlit run app.py
 Sempre que atualizar seu app
 Faça git add .
 git commit -m "mensagem" 
-git push
+git push origin main
