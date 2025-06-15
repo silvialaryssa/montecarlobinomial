@@ -160,3 +160,9 @@ st.markdown("""
 # Rodapé
 st.markdown("---")
 st.caption("Aluna: Sivia Branco")
+st.markdown("""
+- 🔗 [Projeto em HTML no Hugging Face](https://huggingface.co/spaces/silviabranco/unbaedi)  
+- 🌐 [Projeto na Community Cloud (Streamlit App)](https://montecarlobinomial-unbsilvia.streamlit.app/)  
+- 💻 [Código fonte no GitHub](https://github.com/silvialaryssa/montecarlobinomial/blob/main/app.py)
+""")
+
